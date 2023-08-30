@@ -1,4 +1,4 @@
-
+// Day 1 Divide and conquer problem ( TO sort Array of strings using merge sort).
 public class StringMergeSort {
     public static String[] mergeSort(String arr[],int lo,int hi){
         if(lo == hi){
